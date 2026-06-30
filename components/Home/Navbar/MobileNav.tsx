@@ -14,7 +14,7 @@ export default function MobileNav() {  const [open, setOpen] = useState(false);
     <div className="lg:hidden flex items-center">
       <Sheet open={open} onOpenChange={setOpen}>
         <SheetTrigger>
-          <Menu className="w-7 h-7 text-white cursor-pointer" />
+          <Menu className="w-5 h-5 text-foreground cursor-pointer" />
         </SheetTrigger>
 
         <SheetContent side="right" className="w-[280px] p-6 bg-[#0f142ed9] border-none">
