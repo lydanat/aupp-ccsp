@@ -30,6 +30,6 @@ export const projects: Projects[] = [
     readableDate: "Aug-September 2025",
     titleKey: "FeatureProject.projects.2.title",
     title: "CyberAI: Teaching Cybersecurity & AI Skills to High School Students",
-    href: "/projects/cyberai",
+    href: "/projects/cyberai-nca",
   },
 ];
