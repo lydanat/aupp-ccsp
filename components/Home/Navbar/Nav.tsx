@@ -13,7 +13,6 @@ import {
 } from "@/components/ui/dropdown-menu";
 import { ChevronDown } from "lucide-react";
 import ThemeToggle from "./ThemeToggle";
-import { useTheme } from "next-themes";
 
 const Nav = () => {
 
